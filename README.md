@@ -10,3 +10,6 @@ a controlled lab environment (REMnux/INetSim).
 - Malware can be "environment-aware" and may remain dormant in a VM.
 - Users assume all risk for their own downloads.
 - I am not affiliated with any of the sites or developers mentioned.
+
+## License & Attribution
+The technical logs and reports in this repository are provided under the MIT License. If you use or share this data in a video, forum, or article, please attribute the work to Aloha Texas Tech Lab.
