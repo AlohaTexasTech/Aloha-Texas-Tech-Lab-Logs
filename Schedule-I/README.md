@@ -1,1 +1,3 @@
+While initial automated sandboxing (Falcon/Hybrid Analysis) returned a 50/100 Threat Score, manual detonation in a controlled REMnux environment confirms this as a False Positive.
 
+During a 15-minute live capture via Wireshark (with INetSim active), the executable exhibited zero outbound network communication to external WAN IP addresses. All detected traffic was restricted to internal link-local protocols (ARP/IGMP) between the Guest and Host. The 'Malicious' flag in automated scanners is likely a result of the SteamRIP DRM-bypass/Steamless injection method, which mimics suspicious process behavior without actually containing a malicious payload.
