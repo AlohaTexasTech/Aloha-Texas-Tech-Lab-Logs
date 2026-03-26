@@ -13,3 +13,7 @@ a controlled lab environment (REMnux/INetSim).
 
 ## License & Attribution
 The technical logs and reports in this repository are provided under the MIT License. If you use or share this data in a video, forum, or article, please attribute the work to Aloha Texas Tech Lab.
+
+## UPDATES
+Note: I am currently and frequently looking for better tools and methods of my works to better and more accuratley check for viruses. I am not a professional at virus checking. Just like you, I am a general user who just wants to protect healthy sites and consumers alike.
+- 3/25/26, I have realized I was basically trying to fix a sink with a chainsaw, remnux is best for reverse engineering and network simulation. I was recieving too many error I had to fix in order to properly setup my lab and fix it before I could run tests. I am currently changing my tools and methods to better reflect what I'm aiming for. 
